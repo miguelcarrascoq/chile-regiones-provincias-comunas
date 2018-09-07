@@ -1,5 +1,7 @@
 Basado en datos iniciales de https://github.com/knxroot/bdcut-cl
 
+Fuente "oficial" de datos (no actualizada): https://apis.digital.gob.cl/dpa/
+
 De acuerdo a decreto de Diario Oficial http://www.diariooficial.interior.gob.cl/publicaciones/2018/02/14/41983/01/1352724.pdf se crea región de Ñuble y las provincias de Diguillín, Punilla e Itata; y la separa de la región del BioBio, siendo esta la nueva distribución:
 
 |Código Región|Nombre Región|Código Provincia|Nombre Provincia|Código Comuna 2017|Nombre Comuna|
